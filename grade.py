@@ -1,4 +1,4 @@
- import sys
+import sys
 
 # Student Grade Evaluation Program
 
