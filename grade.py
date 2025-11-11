@@ -26,7 +26,7 @@ else:
     grade = 'Fail'
 
 # Display results
-  print("\n--- Student Grade Evaluation ---")
-  print(f"Marks: {marks}")
-  print(f"Average Marks: {average:.2f}")
-  print(f"Grade: {grade}")
+print("\n--- Student Grade Evaluation ---")
+print(f"Marks: {marks}")
+print(f"Average Marks: {average:.2f}")
+print(f"Grade: {grade}")
